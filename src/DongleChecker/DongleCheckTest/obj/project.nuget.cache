@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZzReOtyMT46s2e72/U2vF+K9niYEUZfT82fn+Coj6R4XYPNLgVuKZzZdj15KewP1Wg9CEe4PwKAbgnBpfL3DpQ==",
+  "success": true,
+  "projectFilePath": "D:\\+HUVITZ+\\PROJECT\\TeleMedicine\\MiniPACS\\DongleChecker\\DongleCheckTest\\DongleCheckTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\john7\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\john7\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.0\\system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
